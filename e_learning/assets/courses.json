@@ -1,0 +1,144 @@
+{
+  "courses": [
+    {
+      "_id": "course001",
+      "_title": "Flutter for Beginners",
+      "_thumbnailUrl": "gs://learning-app-311ea.appspot.com/programming1.png",
+      "_description": "An introduction to Flutter development",
+      "_createdBy": "Instructor A",
+      "_createdDate": "2023-09-01",
+      "_rate": 4.7,
+      "_isFavorite": false,
+      "_price": 30.0,
+      "_courseCategory": "Programming",
+      "_duration": "8 hours",
+      "_lessonNo": 15,
+      "_sections": [
+        {
+          "_name": "Introduction",
+          "_lectures": [
+            { "_videoUrl": "gs://learning-app-311ea.appspot.com/video1.mp4","_name": "What is Flutter?", "_duration": "10:00" },
+            {"_videoUrl": "gs://learning-app-311ea.appspot.com/video1.mp4", "_name": "Setting up Flutter", "_duration": "12:00" }
+
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "course002",
+      "_title": "Advanced Flutter",
+      "_thumbnailUrl": "gs://learning-app-311ea.appspot.com/programming2.png",
+      "_description": "Take your Flutter skills to the next level",
+      "_createdBy": "Instructor B",
+      "_createdDate": "2023-08-15",
+      "_rate": 4.8,
+      "_isFavorite": false,
+      "_price": 50.0,
+      "_courseCategory": "Finance",
+      "_duration": "12 hours",
+      "_lessonNo": 20,
+
+      "_sections": [
+        {
+          "_name": "Advanced Concepts",
+          "_lectures": [
+            { "_videoUrl": "gs://learning-app-311ea.appspot.com/video2.mp4","_name": "State Management", "_duration": "20:00" },
+            {"_videoUrl": "gs://learning-app-311ea.appspot.com/video2.mp4", "_name": "Animations", "_duration": "15:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "course003",
+      "_title": "Introduction to AI",
+      "_thumbnailUrl": "gs://learning-app-311ea.appspot.com/programming3.png",
+      "_description": "Learn the basics of Artificial Intelligence",
+      "_createdBy": "Instructor C",
+      "_createdDate": "2023-06-20",
+      "_rate": 4.5,
+      "_isFavorite": true,
+      "_price": 60.0,
+      "_courseCategory": "Marketing",
+      "_duration": "10 hours",
+      "_lessonNo": 12,
+      "_sections": [
+        {
+          "_name": "Getting Started with AI",
+          "_lectures": [
+            { "_videoUrl": "gs://learning-app-311ea.appspot.com/video3.mp4","_name": "What is AI?", "_duration": "15:00" },
+            { "_videoUrl": "gs://learning-app-311ea.appspot.com/video3.mp4","_name": "History of AI", "_duration": "18:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "course004",
+      "_title": "Data Science with Python",
+      "_thumbnailUrl": "gs://learning-app-311ea.appspot.com/programming4.png",
+      "_description": "Master data science using Python",
+      "_createdBy": "Instructor D",
+      "_createdDate": "2023-07-10",
+      "_rate": 4.9,
+      "_isFavorite": false,
+      "_price": 70.0,
+      "_courseCategory": "Other",
+      "_duration": "15 hours",
+      "_lessonNo": 18,
+      "_sections": [
+        {
+          "_name": "Python Basics",
+          "_lectures": [
+            {"_videoUrl": "gs://learning-app-311ea.appspot.com/video4.mp4", "_name": "Introduction to Python", "_duration": "25:00" },
+            {"_videoUrl": "gs://learning-app-311ea.appspot.com/video4.mp4", "_name": "Python for Data Science", "_duration": "30:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "course005",
+      "_title": "React for Beginners",
+      "_thumbnailUrl": "gs://learning-app-311ea.appspot.com/programming5.png",
+      "_description": "Learn the basics of React",
+      "_createdBy": "Instructor E",
+      "_createdDate": "2023-05-18",
+      "_rate": 4.6,
+      "_isFavorite": false,
+      "_price": 40.0,
+      "_courseCategory": "Web Development",
+      "_duration": "9 hours",
+      "_lessonNo": 14,
+      "_sections": [
+        {
+          "_name": "Getting Started with React",
+          "_lectures": [
+            { "_videoUrl": "gs://learning-app-311ea.appspot.com/video5.mp4","_name": "Introduction to React", "_duration": "10:00" },
+            { "_videoUrl": "gs://learning-app-311ea.appspot.com/video5.mp4","_name": "React Components", "_duration": "12:00" }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "course006",
+      "_title": "Machine Learning Basics",
+      "_thumbnailUrl": "gs://learning-app-311ea.appspot.com/marketing2.png",
+      "_description": "Learn the basics of Machine Learning",
+      "_createdBy": "Instructor F",
+      "_createdDate": "2023-04-25",
+      "_rate": 4.7,
+      "_isFavorite": true,
+      "_price": 80.0,
+      "_courseCategory": "All",
+      "_duration": "11 hours",
+      "_lessonNo": 16,
+      "_sections": [
+        {
+          "_name": "Introduction to ML",
+          "_lectures": [
+            {"_videoUrl": "gs://learning-app-311ea.appspot.com/video6.mp4", "_name": "What is Machine Learning?", "_duration": "20:00" },
+            {"_videoUrl": "gs://learning-app-311ea.appspot.com/video6.mp4", "_name": "Types of Machine Learning", "_duration": "25:00" }
+          ]
+        }
+      ]
+    }
+  ]
+}
